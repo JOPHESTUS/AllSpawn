@@ -1,0 +1,7 @@
+name: AllSpawn
+main: us.jophest.allspawn.AllSpawn
+version: 1.0
+author: JOPHESTUS
+description: Takes all players to spawn
+commands:
+    allspawn:
